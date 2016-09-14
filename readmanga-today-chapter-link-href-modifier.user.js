@@ -1,7 +1,7 @@
 // ==UserScript==
 // @namespace    https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier
-// @updateURL    https://openuserjs.org/meta/Jeni4/ReadManga.Today_chapters_container_href_modifier.meta.js
-// @downloadURL  https://openuserjs.org/src/scripts/Jeni4/ReadManga.Today_chapters_container_href_modifier.meta.js
+// @updateURL    https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier/raw/master/readmanga-today-chapter-link-href-modifier.user.js
+// @downloadURL  https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier/raw/master/readmanga-today-chapter-link-href-modifier.user.js
 // @name         ReadManga.Today chapters container href modifier
 // @version      0.1.1.4
 // @description  Modifies the chapter link to go directly to the full chapter page (insted of just loading the first image of the chapter)
