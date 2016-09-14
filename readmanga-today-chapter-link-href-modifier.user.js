@@ -4,7 +4,7 @@
 // @downloadURL  https://openuserjs.org/src/scripts/Jeni4/ReadManga.Today_chapters_container_href_modifier.meta.js
 //
 // @name         ReadManga.Today chapters container href modifier
-// @version      0.1.1.3.1
+// @version      0.1.1.3.2
 // @description  
 //
 // @license      Creative Commons Attribution-Share Alike http://creativecommons.org/licenses/by-sa/3.0/
