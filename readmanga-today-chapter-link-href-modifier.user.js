@@ -4,8 +4,8 @@
 // @downloadURL  https://openuserjs.org/src/scripts/Jeni4/ReadManga.Today_chapters_container_href_modifier.meta.js
 //
 // @name         ReadManga.Today chapters container href modifier
-// @version      0.1.1.3.2
-// @description  
+// @version      0.1.1.4
+// @description  Modifies the chapter link to go directly to the full chapter page (insted of just loading the first image of the chapter)
 //
 // @license      Creative Commons Attribution-Share Alike http://creativecommons.org/licenses/by-sa/3.0/
 // @copyright    
