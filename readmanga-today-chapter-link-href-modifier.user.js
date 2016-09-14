@@ -11,6 +11,7 @@
 // @copyright    
 //
 // @match        http://www.readmanga.today/
+// @match        http://readmanga.today/
 // @grant        none
 // ==/UserScript==
 
