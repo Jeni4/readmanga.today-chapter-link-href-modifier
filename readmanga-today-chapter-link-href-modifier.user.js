@@ -1,10 +1,10 @@
 // ==UserScript==
 // @namespace    https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier
-// @updateURL    https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier/raw/master/readmanga-today-chapter-link-href-modifier.user.js
-// @downloadURL  https://github.com/Jeni4/readmanga.today-chapter-link-href-modifier/raw/master/readmanga-today-chapter-link-href-modifier.user.js
+// @updateURL    https://openuserjs.org/meta/username/scriptname.meta.js
+// @downloadURL  https://openuserjs.org/src/scripts/username/scriptname.user.js
 //
 // @name         ReadManga.Today chapters container href modifier
-// @version      0.1.1.1
+// @version      0.1.1.2
 // @description  
 //
 // @license      Creative Commons Attribution-Share Alike http://creativecommons.org/licenses/by-sa/3.0/
